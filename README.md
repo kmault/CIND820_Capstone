@@ -14,7 +14,9 @@ Research questions include:
 	Are specific crime types concentrated within certain geographical areas?  
 	Which neighborhoods are the most violent and which the least violent?
 	Which neighborhood has the highest incidence of crime and which neighbourhood the lowest?
+
 	Which classification algorithm(s) demonstrate the most potential for prediction of crime categories?
+
 	Which variables most influence crime?
 
 The primary dataset used for this project was the 2014 to 2021 Toronto Major Crime Indicator (MCI) data released by the Toronto Police Service and available through the Toronto Police Service Public Safety Data Portal (https://data.torontopolice.on.ca/search?q=crime).  Additional datasets include the Crime Severity Index weights for Canada (Statcan, 2021), geographic feature files (shapefiles) of Toronto Police patrol zones (https://open.toronto.ca/dataset/patrol-zones/) and Toronto neighbourhoods (https://open.toronto.ca/dataset/neighbourhoods/), and Toronto neighbourhood profiles (https://open.toronto.ca/dataset/neighbourhood-profiles/).
