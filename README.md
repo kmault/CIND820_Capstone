@@ -9,9 +9,13 @@ The goal of this project is to assess crime within the city of Toronto, via the 
 Research questions include:
 
 	Which Toronto neighborhoods are the most violent and which the least violent (generally assessed as high crime versus low crime)?
+
 	What are the general crime trends within the City of Toronto?  
+
 	Are there recognizable temporal trends?  
+
 	Are specific crime types concentrated within certain geographical areas?  
+
 	Which neighborhoods are the most violent and which the least violent?
 
 	Which neighborhood has the highest incidence of crime and which neighbourhood the lowest?
