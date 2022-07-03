@@ -13,6 +13,7 @@ Research questions include:
 	Are there recognizable temporal trends?  
 	Are specific crime types concentrated within certain geographical areas?  
 	Which neighborhoods are the most violent and which the least violent?
+
 	Which neighborhood has the highest incidence of crime and which neighbourhood the lowest?
 
 	Which classification algorithm(s) demonstrate the most potential for prediction of crime categories?
